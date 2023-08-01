@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dineshpadhy
-- 👀 I’m interested in Python Programming, automation, Linux customisation, Android, power management.
-- 🌱 I’m currently learning AWS
+- 👀 I’m interested in Python Programming, automation, Linux customization, Android, power management.
 - 💞️ I’m looking to collaborate on python programming and automation.
 - 📫 dinesh.padhy@gmail.com
 
